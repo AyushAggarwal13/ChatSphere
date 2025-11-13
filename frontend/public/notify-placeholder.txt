@@ -1,0 +1,1 @@
+Replace this file with a short mp3 file named 'notify.mp3' in the frontend/public folder. The app references /notify.mp3 for notification sound.
